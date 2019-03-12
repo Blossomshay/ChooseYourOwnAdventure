@@ -6,15 +6,15 @@ var game = {
     levels: {
 
         start: {
-            message: "You come across a dark cave",
+            message: "Help Eliminate Yakumo Oomari Before He Kills You",
             choices: [
                 {
-                    text: "Enter the cave",
-                    nextLevel: "cave",
+                    text: "Bring It On",
+                    nextLevel: "Weapon Selection",
                 },
 
                 {
-                    text: "Keep on moving",
+                    text: "Im scared ",
                     nextLevel: "field",
                 },
             ]
